@@ -1,2 +1,2 @@
-# piopiy-test
-JSON Based Developer telephony NodeJS example
+# piopiy
+Rest API server for PIOPIY

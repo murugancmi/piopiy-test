@@ -1,0 +1,28 @@
+{
+  "name": "piopiy-test",
+  "version": "1.0.0",
+  "description": "Rest API server for PIOPIY",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murugancmi/piopiy-test.git"
+  },
+  "keywords": [
+    "PIOPIY",
+    "nodejs"
+  ],
+  "author": "Murugan Pandian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murugancmi/piopiy-test/issues"
+  },
+  "homepage": "https://github.com/murugancmi/piopiy-test#readme"
+}
